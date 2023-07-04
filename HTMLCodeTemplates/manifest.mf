@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.netbeans.htmlcodetemplate
+OpenIDE-Module-Layer: org/netbeans/htmlcodetemplate/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/netbeans/htmlcodetemplate/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
